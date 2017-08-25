@@ -47,6 +47,11 @@ ul, li {
     color: white;
 }
 
+.twitter {
+    position: relative;
+    left: 200px;
+}
+
 .chuck {
     display: block;
     text-align: center;
